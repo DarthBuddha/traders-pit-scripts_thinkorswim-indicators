@@ -1,19 +1,3 @@
-# Buddha-ThinkScripts
+# vsc-ThinkScript-Language
 
 ---
-
----
-
-## Chart
-
----
----
-
-## Indicators
-
----
----
-
-### Version
-
-1.0.0
